@@ -1,7 +1,7 @@
 {
   "quiz": {
       "sport": {
-          "q2": {
+          "q0": {
               "question": "Which one is correct team name in NBA?",
               "options": [
                   "New York Bulls",
@@ -24,15 +24,25 @@
               "answer": "12"
           },
           "q2": {
-              "question": "12 - 8 = ?",
+              "question": "12 - 5 = ?",
               "options": [
                   "1",
                   "2",
-                  "3",
-                  "4"
+                  "5",
+                  "7"
               ],
-              "answer": "4"
-          }
+              "answer": "7"
+          },
+          "q3": {
+            "question": "12 * 5 = ?",
+            "options": [
+                "45",
+                "50",
+                "55",
+                "60"
+            ],
+            "answer": "60"
+        }
       }
   }
 }
